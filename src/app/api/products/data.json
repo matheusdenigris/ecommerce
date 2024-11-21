@@ -1,0 +1,31 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "iPhone 15",
+      "slug": "iphone-15",
+      "price": 699,
+      "image": "/iphone.png",
+      "description": "iPhone 15 256GB",
+      "featured": true
+    },
+    {
+      "id": 2,
+      "title": "JBL Boombox 2",
+      "slug": "Jbl",
+      "price": 499,
+      "image": "/jbl.png",
+      "description": "Portable Bluetooth Speaker",
+      "featured": true
+    },
+    {
+      "id": 3,
+      "title": "Notebook Acer Nitro 5",
+      "slug": "notebook-acer-nitro-5",
+      "price": 599,
+      "image": "/notebook.png",
+      "description": "Notebook Acer Nitro 5, 8GB, 256GB SSD",
+      "featured": true
+    }
+  ]
+}
