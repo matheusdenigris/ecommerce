@@ -18,11 +18,12 @@ Requirements:
 git clone https://github.com/matheusdenigris/ecommerce.git
 
 # install dependencies
-npm install
+npm install --force
 
 # execute the project
 npm run dev
 ```
+ps: you should create a .env.local in the root, file content example: NEXT_PUBLIC_API_BASE_URL="http://localhost:3000/api"
 # Dependencies
 - next
 - react
